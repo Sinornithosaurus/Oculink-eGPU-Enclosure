@@ -1,6 +1,6 @@
 # Oculink eGPU Enclosure
 
-An enclosure made from a bunch of Makerbeam parts,a Cooler Master graphics card bracket, and 2 laser cut brackets.
+An enclosure made from a bunch of Makerbeam parts, a Cooler Master vertical GPU holder, and 2 laser cut aluminium brackets.
 
 The cooler master bracket was probably not necessary. However, I want this thing to be durable and transportable, and I found that it's providing great rigidity for what I need.
 
