@@ -7,7 +7,7 @@ The cooler master bracket was probably not necessary. However, I want this thing
 WARNING! I have yet to make this. I've got most of the parts coming, but I'm kinda waiting on my GPD Win Mini to put it all together. I will update this page once I confirm it all works!
 
 <p align="center">
-![alt text](https://github.com/Sinornithosaurus/Oculink-eGPU-Enclosure/blob/main/Oculink%20eGPU%20CAD%20Files/Oculink%20eGPU%20CAD%20Capture.png)
+  <img width="460" height="300" src="https://github.com/Sinornithosaurus/Oculink-eGPU-Enclosure/blob/main/Oculink%20eGPU%20CAD%20Files/Oculink%20eGPU%20CAD%20Capture.png">
 </p>
 
 -----------------------------
