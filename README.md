@@ -16,7 +16,7 @@ PARTS LIST - as of 24/10/2023
 
 1 x Aliexpress Oculink GPU adapter - I've got the one from Zihan, from the following link; https://www.aliexpress.com/item/1005005512284033.html?spm=a2g0o.order_list.order_list_main.5.700b1802wO0oxh
 
-1 x PSU - Either a HDPlex 250-500W GAN PSU, or a Silverstone FX350-G - if using the Silverstone, extra holes will have to be drilled in the alumuminium bracket.
+1 x PSU - Either a HDPlex 250-500W GAN PSU, or a Silverstone FX350-G - if using the Silverstone, extra holes will have to be drilled in the aluminium bracket.
 
 
 4 x MakerBeam - 10mmx10mm Corner brackets
