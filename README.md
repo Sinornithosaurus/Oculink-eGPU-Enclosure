@@ -3,8 +3,11 @@
 An enclosure made from a bunch of Makerbeam parts and a Cooler Master graphics card bracket. The cooler master bracket was probably not necessary. However, I want this thing to be durable and transportable, and I found that it's providing great rigidity for what I need.
 WARNING! I have yet to make this. I've got most of the parts coming, but I'm kinda waiting on my GPD Win Mini to put it all together. I will update this page once I confirm it all works!
 
+-----------------------------
 
 PARTS LIST - as of 24/10/2023
+
+-----------------------------
 
 1 x Cooler Master Vertical Graphics Card Holder Kit V3
 
