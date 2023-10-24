@@ -18,6 +18,8 @@ PARTS LIST - as of 24/10/2023
 
 1 x PSU - Either a HDPlex 250-500W GAN PSU, or a Silverstone FX350-G - if using the Silverstone, extra holes will have to be drilled in the aluminium bracket.
 
+The 2 laser cut brackets for the Oculink board and PSU, from 1.5mm thickness Aluminium.
+
 
 4 x MakerBeam - 10mmx10mm Corner brackets
 
