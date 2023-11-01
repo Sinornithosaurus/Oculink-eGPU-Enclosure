@@ -22,6 +22,8 @@ PARTS LIST - as of 24/10/2023
 
 1 x PSU - Either a HDPlex 250-500W GAN PSU, or a Silverstone FX350-G - if using the Silverstone, extra holes will have to be drilled in the aluminium bracket.
 
+2 x 90 Degree Angled Motherboard 24 Pin ATX Mini Adapter Connector Black - I bought this one from ModDIY, it seems to be the slimmest.
+
 The 2 laser cut brackets for the Oculink board and PSU, from 1.5mm thickness Aluminium.
 
 
