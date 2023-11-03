@@ -29,7 +29,7 @@ The 2 laser cut brackets for the Oculink board and PSU, from 1.5mm thickness Alu
 
 4 x MakerBeam - 10mmx10mm Corner brackets
 
-4 x MakerBeam - 10mmx10mm 90 degree brackets
+3 x MakerBeam - 10mmx10mm 90 degree brackets
 
 4 x MakerBeam - 10mmx10mm 300mm clear MakerBeam
 
