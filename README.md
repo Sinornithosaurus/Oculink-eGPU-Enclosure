@@ -7,7 +7,9 @@ The cooler master bracket was probably not necessary. However, I want this thing
 As of now I haven't screwed down a power supply, but It all fits together well.
 
 <p align="center">
-  <img width="712" height="712" src="https://github.com/Sinornithosaurus/Oculink-eGPU-Enclosure/blob/main/Oculink%20eGPU%20CAD%20Capture.png">
+  <img width="712" height="712" src="https://github.com/Sinornithosaurus/Oculink-eGPU-Enclosure/blob/main/Photos/Oculink%20eGPU%20CAD%20Capture.png">
+  <img width="712" height="712" src="https://github.com/Sinornithosaurus/Oculink-eGPU-Enclosure/blob/main/Photos/eGPU%20Built%20Side-on.jpg">
+  <img width="712" height="712" src="https://github.com/Sinornithosaurus/Oculink-eGPU-Enclosure/blob/main/Photos/eGPU%20Built%20Bottom.jpg">
 </p>
 
 -----------------------------
