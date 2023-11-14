@@ -1,10 +1,10 @@
 # Oculink eGPU Enclosure
 
-An enclosure made from a bunch of Makerbeam parts, a Cooler Master vertical GPU holder, and 2 laser cut aluminium brackets.
+An enclosure made from a bunch of Makerbeam parts, a Cooler Master vertical GPU holder, and 2 aluminium brackets (either laser-cut or hand cut).
 
 The cooler master bracket was probably not necessary. However, I want this thing to be durable and transportable, and I found that it's providing great rigidity for what I need.
 
-WARNING! I have yet to make this. I've got most of the parts coming, but I'm kinda waiting on my GPD Win Mini to put it all together. I will update this page once I confirm it all works!
+As of now I haven't screwed down a power supply, but It all fits together well.
 
 <p align="center">
   <img width="712" height="712" src="https://github.com/Sinornithosaurus/Oculink-eGPU-Enclosure/blob/main/Oculink%20eGPU%20CAD%20Files/Oculink%20eGPU%20CAD%20Capture.png">
@@ -24,18 +24,20 @@ PARTS LIST - as of 24/10/2023
 
 2 x 90 Degree Angled Motherboard 24 Pin ATX Mini Adapter Connector Black - I bought this one from ModDIY, it seems to be the slimmest; https://www.moddiy.com/products/90-Degree-Angled-Motherboard-24-Pin-ATX-Mini-Adapter-Connector-Black.html
 
-The 2 laser cut brackets for the Oculink board and PSU, from 1.5mm thickness Aluminium.
+The 2 bracket pieces for the Oculink board and PSU, from 1mm thickness 5005 Aluminium.
 
-
-4 x MakerBeam - 10mmx10mm Corner brackets
-
-3 x MakerBeam - 10mmx10mm 90 degree brackets
 
 4 x MakerBeam - 10mmx10mm 300mm clear MakerBeam
 
-9 x MakerBeam - 10mmx10mm 150mm clear MakerBeam
+10 x MakerBeam - 10mmx10mm 150mm clear MakerBeam
 
-6 x MakerBeam - 10mmx10mm Corner cubes clear for MakerBeam - 10mmx10mmx10mm
+6 x MakerBeam - 10mmx10mmx10mm Corner cubes clear for MakerBeam
+
+1 x Makerbeam - Straight bracket (cut to 30mm in length)
+
+8 x MakerBeam - Corner brackets
+
+6 x MakerBeam - 90 degree brackets
 
 60 x MakerBeam - 10mmx10mm Square headed bolts 6mm for MakerBeam
 
