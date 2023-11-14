@@ -4,7 +4,7 @@ An enclosure made from a bunch of Makerbeam parts, a Cooler Master vertical GPU 
 
 The cooler master bracket was probably not necessary. However, I want this thing to be durable and transportable, and I found that it's providing great rigidity for what I need.
 
-As of now I haven't screwed down a power supply, but It all fits together well. It should work well, I've got some feet coming in so I'll test those too. After I confirm it all works, I'll look into a proper cover, probably made out of wood :)
+As of now I haven't screwed down a power supply, but since it's all just hardware the electronics should work fine. I've got some feet coming in so I'll test those too. After I confirm it all fits together I'll provide a link, and then look into a proper wood enclosure for the outside :)
 
 <p align="center">
   <img width="512" height="512" src="https://github.com/Sinornithosaurus/Oculink-eGPU-Enclosure/blob/main/Photos/Oculink%20eGPU%20CAD%20Capture.png">
