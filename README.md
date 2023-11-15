@@ -4,7 +4,7 @@ An enclosure made from a bunch of Makerbeam parts, a Cooler Master vertical GPU 
 
 The cooler master bracket was probably not necessary. However, I want this thing to be durable and transportable, and I found that it's providing great rigidity for what I need.
 
-As of now I haven't screwed down a power supply, but since it's all just hardware the electronics should work fine. I've got some feet coming in so I'll test those too. After I confirm it all fits together I'll provide a link, and then look into a proper wood enclosure for the outside :)
+As of now I haven't screwed down a power supply, but since it's all just hardware the electronics should work fine. Once tested I'll look into a proper wood enclosure for the outside :)
 
 <p align="center">
   <img width="512" height="512" src="https://github.com/Sinornithosaurus/Oculink-eGPU-Enclosure/blob/main/Photos/Oculink%20eGPU%20CAD%20Capture.png">
@@ -25,6 +25,8 @@ PARTS LIST - as of 24/10/2023
 1 x PSU - Either a HDPlex 250-500W GAN PSU, or a Silverstone FX350-G - if using the Silverstone, extra holes will have to be drilled in the aluminium bracket.
 
 2 x 90 Degree Angled Motherboard 24 Pin ATX Mini Adapter Connector Black - I bought this one from ModDIY, it seems to be the slimmest; https://www.moddiy.com/products/90-Degree-Angled-Motherboard-24-Pin-ATX-Mini-Adapter-Connector-Black.html
+
+4 x Solid Silicone Rubber Caps 9.5mm in diameter and 10mm in total overall height, I got them from this link; https://www.aliexpress.com/item/1005004394390343.html?spm=a2g0o.order_detail.order_detail_item.7.6e84f19cM8MnQj
 
 The 2 bracket pieces for the Oculink board and PSU, from 1mm thickness 5005 Aluminium.
 
